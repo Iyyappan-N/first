@@ -1,4 +1,4 @@
-a=33
+a=10
 b=32
 print(a+b)
 print('git')
